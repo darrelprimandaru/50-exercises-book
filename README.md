@@ -1,5 +1,5 @@
 My solutions for the book ["Python Workout: 50 ten-minute exercises"](https://a.co/d/6f1HYz5) by Reuven M. Lerner.
-
+ 
 1: [Number guessing game](https://github.com/darrelprimandaru/50-exercises-book/blob/main/python%2050%20exercises/(1)%20number%20guess.py)  
 2: [Summing numbers](https://github.com/darrelprimandaru/50-exercises-book/blob/main/python%2050%20exercises/(2)%20summing%20numbers.py)  
 3: [Run timing](https://github.com/darrelprimandaru/50-exercises-book/blob/main/python%2050%20exercises/(3)%20run%20timing.py)  
